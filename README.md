@@ -22,7 +22,7 @@ The goal is to make AI-driven dermatological assistance accessible to users with
 
 ## Live Demo
 
-[Visit the Live Web App](https://your-streamlit-link-here)
+[Visit the Live Web App]((https://skin-diseases-manasvinair.streamlit.app/))
 
 
 ## Dataset
